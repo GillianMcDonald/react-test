@@ -1,0 +1,7 @@
+* {box-sizing: border-box}
+
+.Container{
+  position: relative;
+  font-size: 20px;
+  text-align: center;
+}

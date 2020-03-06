@@ -1,0 +1,19 @@
+
+
+
+.NavbarContainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo{
+    padding-left: 40px;
+    height: 130px;
+}
+
+
+i{
+    color: lightgray;
+    padding-right: 50px;
+    padding-top: 13px;
+} 
