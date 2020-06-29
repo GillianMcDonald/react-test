@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/WGFrontEnd/static/css/main.7c46f550.chunk.css",
+    "main.js": "/WGFrontEnd/static/js/main.0af7f5fc.chunk.js",
+    "main.js.map": "/WGFrontEnd/static/js/main.0af7f5fc.chunk.js.map",
+    "runtime-main.js": "/WGFrontEnd/static/js/runtime-main.4d5c41a3.js",
+    "runtime-main.js.map": "/WGFrontEnd/static/js/runtime-main.4d5c41a3.js.map",
+    "static/css/2.2bd37e2f.chunk.css": "/WGFrontEnd/static/css/2.2bd37e2f.chunk.css",
+    "static/js/2.6da0d7bb.chunk.js": "/WGFrontEnd/static/js/2.6da0d7bb.chunk.js",
+    "static/js/2.6da0d7bb.chunk.js.map": "/WGFrontEnd/static/js/2.6da0d7bb.chunk.js.map",
+    "index.html": "/WGFrontEnd/index.html",
+    "precache-manifest.0c840127a607a86946c65b179a9e5e36.js": "/WGFrontEnd/precache-manifest.0c840127a607a86946c65b179a9e5e36.js",
+    "service-worker.js": "/WGFrontEnd/service-worker.js",
+    "static/css/2.2bd37e2f.chunk.css.map": "/WGFrontEnd/static/css/2.2bd37e2f.chunk.css.map",
+    "static/css/main.7c46f550.chunk.css.map": "/WGFrontEnd/static/css/main.7c46f550.chunk.css.map",
+    "static/js/2.6da0d7bb.chunk.js.LICENSE.txt": "/WGFrontEnd/static/js/2.6da0d7bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d5c41a3.js",
+    "static/css/2.2bd37e2f.chunk.css",
+    "static/js/2.6da0d7bb.chunk.js",
+    "static/css/main.7c46f550.chunk.css",
+    "static/js/main.0af7f5fc.chunk.js"
+  ]
+}
